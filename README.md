@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jônatas a brasilan student of analysis and systems development.
+- 👀 I’m interested in Web Development and Projects in Python.
+- 🌱 I’m currently learning JavaScript and PHP.
+- 📫 You can reach me by e-mail or telegram.
+- E-mail => jonatas.soares.alves@gmail.com
+- Number => +55 11 95148-4123
